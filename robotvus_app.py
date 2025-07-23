@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_extras.emoji import emoji
 
 st.set_page_config(
     page_title="โรบอทวุส | Mental Scanner",
